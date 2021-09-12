@@ -5,4 +5,5 @@ This repo hosts documentation related to building an open, zoomable atlas for in
 For more fine-grained documentation, see the associated
 - [issues](https://github.com/InvasionBiologyHypotheses/Documentation/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc)
 - [milestones](https://github.com/InvasionBiologyHypotheses/Documentation/milestones?direction=asc&sort=due_date&state=open)
+- [events](https://github.com/InvasionBiologyHypotheses/Documentation/labels/events)
 - [labels](https://github.com/InvasionBiologyHypotheses/Documentation/labels?sort=count-desc)
